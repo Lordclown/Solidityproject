@@ -1,3 +1,9 @@
+// contractaddress: 0x9D36c869633fbdb23cfAc47953A508a9b5dD6712
+
+// To increase the counter, transact with the function 'incrementCounter' 
+// or send a transaction to the contractaddress with the following data: '0x5b34b966'
+// To call the current value of the counter call the function 'getCounter'
+
 // Solidity version specifier
 pragma solidity ^0.8.0;
 
